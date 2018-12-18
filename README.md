@@ -1,6 +1,6 @@
 # NRGScoutingServer
 Testing for NRG Scouting Server (hosted website)
-https://scout.nrg948.com
+http://scout.nrg948.com
 
 Hosted on DigitalOcean Cloud 
 Will be Using:
